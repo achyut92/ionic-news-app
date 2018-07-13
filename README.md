@@ -6,6 +6,7 @@ npm install -g ionic cordova </br>
 -g is global install. The command installs ionic and cordova
 
 # Star the app
+npm install<br>
 ionic serve -p 3000</br>
 -p <PORT> runs in specified PORT number</br>
 
