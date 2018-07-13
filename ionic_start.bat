@@ -1,1 +1,0 @@
-..\node_modules\.bin\ionic serve -p 3000
