@@ -1,0 +1,246 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Alarabiya.net"
+            },
+            "author": "",
+            "title": "British police: 'Unknown substance' hospitalizes two in Salisbury",
+            "description": "British police said Wednesday that two people are in a critical condition in a Salisbury hospital",
+            "url": "http://english.alarabiya.net/en/News/world/2018/07/04/British-police-Unknown-substance-hospitalizes-two-in-Salisbury.html",
+            "urlToImage": "https://vid.alarabiya.net/images/2018/07/04/4d0bdc16-c4f7-4374-9285-59c737921096/4d0bdc16-c4f7-4374-9285-59c737921096_16x9_788x442.jpg",
+            "publishedAt": "2018-07-04T10:19:11Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Todayonline.com"
+            },
+            "author": null,
+            "title": "Hong Kong court grants British lesbian right to spousal visa",
+            "description": "",
+            "url": "https://www.todayonline.com/world/hong-kong-court-grants-british-lesbian-right-spousal-visa",
+            "urlToImage": "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/2018-07-04T091102Z_2_LYNXMPEE6305U_RTROPTP_4_HONGKONG-BRITAIN-LGBT.JPG?itok=veqZCJJh",
+            "publishedAt": "2018-07-04T09:26:07Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Full text: WhatsApp reveals its plan to deal with fake news in a letter to govt",
+            "description": "WhatsApp said that they have been testing ways to curb the problem of fake news.",
+            "url": "https://www.firstpost.com/tech/news-analysis/full-text-whatsapp-reveals-its-plan-to-deal-with-fake-news-in-a-letter-to-govt-4663251.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/02/Whatsapp_Reuters.jpg",
+            "publishedAt": "2018-07-04T09:20:00Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tvnz.co.nz"
+            },
+            "author": null,
+            "title": "More than 30 people dead after Indonesian ferry sinks",
+            "description": "It's the latest in a succession of boat tragedies in Indonesia.",
+            "url": "https://www.tvnz.co.nz/one-news/world/more-than-30-people-dead-after-indonesian-ferry-sinks",
+            "urlToImage": "https://www.tvnz.co.nz/content/dam/images/news/2018/07/04/ferry_800.jpg.hashed.8024aa5c.desktop.story.share.jpg",
+            "publishedAt": "2018-07-04T09:17:36Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "SHAFFIQ IDRIS ALKHATIB",
+            "title": "Maid jailed for putting tranquilliser in breakfast of employer's family",
+            "description": "SINGAPORE -A maid who feared she was about to be scolded slipped a tranquilliser into the breakfast of her employer's wife and daughter in the hope they would \"calm down\", a court heard.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/singapore/courts-crime/maid-jailed-for-putting-tranquilliser-in-breakfast-of-employers-family",
+            "urlToImage": "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg",
+            "publishedAt": "2018-07-04T08:44:23Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "hermesauto",
+            "title": "China's HNA Group co-chairman Wang Jian dies after fall in France",
+            "description": "HONG KONG(BLOOMBERG) - HNA Group Co., the once-acquisitive Chinese conglomerate, said that its co-chairman Wang Jian died after an accident on Tuesday (July 3) in France. He was 57.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/asia/east-asia/chinas-hna-group-chairman-wang-jian-dies-after-fall-in-france",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/colin-hna-4.jpg?itok=XoqylgYO",
+            "publishedAt": "2018-07-04T08:39:27Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theage.com.au"
+            },
+            "author": "Michael Bachelard, Mathew Dunckley",
+            "title": "Rio Tinto executive Stern Hu reaches end of his China prison sentence",
+            "description": "The executive's jailing in 2010 was seen as a low point in the Australia-China relationship.",
+            "url": "https://www.theage.com.au/world/asia/rio-tinto-executive-stern-hu-reaches-end-of-his-china-prison-sentence-20180704-p4zph4.html",
+            "urlToImage": "https://static.ffx.io/images/$width_800,$height_450/t_crop_auto/t_sharpen,q_auto,f_auto/77ed4a9abcc0726d304c36eea4a53e4960889a88",
+            "publishedAt": "2018-07-04T08:25:00Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Channelnewsasia.com"
+            },
+            "author": null,
+            "title": "COE premiums close lower, Category A cars fall to S$25000",
+            "description": "SINGAPORE: Certificate of Entitlement (COE) premiums for small cars plunged to the lowest in more than eight years as prices fell across the board ...",
+            "url": "https://www.channelnewsasia.com/news/singapore/coe-premiums-close-lower-category-a-cars-fall-to-s-25-000-10498448",
+            "urlToImage": "http://www.channelnewsasia.com/image/9466790/16x9/991/529/213a8d94f9d5a6e39566752466ebc6a1/TO/singapore-cars-file-shot---1114872.png",
+            "publishedAt": "2018-07-04T08:04:52Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nst.com.my"
+            },
+            "author": null,
+            "title": "Jho Low's passport cancelled",
+            "description": null,
+            "url": "https://www.nst.com.my/news/crime-courts/2018/07/387301/jho-lows-passport-cancelled",
+            "urlToImage": null,
+            "publishedAt": "2018-07-04T07:45:41Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "CHONG KOH PING",
+            "title": "Singapore-Chongqing logistics hub under Chongqing Connectivity Initiative takes shape",
+            "description": "CHONGQING - In about three years, a logistics hub jointly developed by Singapore and Chongqing companies will be up and running, managing operations across road, rail and river in the upper reaches of China's famous Yangtze River.. Read more at straitstimes.c…",
+            "url": "https://www.straitstimes.com/asia/east-asia/singapore-chongqing-logistics-hub-under-chongqing-connectivity-initiative-takes-shape",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/yq-dpmteo-04072018.jpg?itok=OMkuBjAP",
+            "publishedAt": "2018-07-04T07:29:39Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "SHAFFIQ IDRIS ALKHATIB",
+            "title": "9 months' jail for father who assaulted 11-year-old daughter over phone charger",
+            "description": "SINGAPORE - A 33-year-old man flew into a rage and physically assaulted his 11-year-old biological daughter who, because of a ear infection, had failed to hear him when he told her to pack his phone charger into his bag.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/singapore/courts-crime/father-pleads-guilty-to-ill-treating-11-year-old-daughter-jailed-for-nine",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/courtspix190615_0.jpg?itok=kzCYmTzc",
+            "publishedAt": "2018-07-04T06:48:27Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "hermesauto",
+            "title": "Thai cave rescue: Trapped boys begin crash course on swimming and diving as rescuers plan way out of flooded cave",
+            "description": "MAE SAI, THAILAND - The 12 boys trapped in a flooded cave in northern Thailand are being taught how to swim and dive on Wednesday (July 4) to prepare them for the possibility that they need to dive their way out, as rescuers continued to pump water from the c…",
+            "url": "https://www.straitstimes.com/asia/se-asia/thai-cave-rescue-boys-to-be-taught-to-swim-and-dive-beginning-wednesday-or-thursday",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/nz-thai-040718.jpg?itok=kM4ZK-20",
+            "publishedAt": "2018-07-04T06:43:59Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Channelnewsasia.com"
+            },
+            "author": null,
+            "title": "Singapore will continue to work closely with Malaysia on 1MDB investigations: MAS chief",
+            "description": "SINGAPORE: Investigations on the scandal-plagued state fund 1Malaysia Development Berhad (1MDB) are ongoing in Singapore and local authorities ...",
+            "url": "https://www.channelnewsasia.com/news/singapore/1mdb-singapore-will-continue-to-work-closely-with-malaysia-10498180",
+            "urlToImage": "http://www.channelnewsasia.com/image/8223968/16x9/991/529/3d05f64688c8c68bda2749a1d2810eeb/qt/1mdb-logo---1998832.png",
+            "publishedAt": "2018-07-04T06:18:37Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "SIOW LI SEN",
+            "title": "Singapore's economic growth to remain steady in 2018 despite rising trade friction: MAS chief Ravi Menon",
+            "description": "SINGAPORE - Singapore's economy should continue to expand in 2018 although protectionism risks have risen, said Ravi Menon, Monetary Authority of Singapore managing director.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/business/economy/singapores-economic-growth-to-remain-steady-in-2018-despite-rising-trade-friction",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/nz-skyline-040719.jpg?itok=srF-nehm",
+            "publishedAt": "2018-07-04T05:26:29Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "NISHA RAMCHANDANI",
+            "title": "Blocked in 2009, Horizon Towers goes on collective sale again with $1.1b reserve price",
+            "description": "SINGAPORE - Back in 2009, Horizon Towers was to be collectively sold for S$500 million but the sale was overturned. Now the prime District 9 condominium has been launched for sale at a reserve price of S$1.1 billion.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/business/property/blocked-in-2009-horizon-towers-goes-on-collective-sale-again-with-11b-reserve",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/nz-horizon-040718.jpg?itok=ugcurCP1",
+            "publishedAt": "2018-07-04T04:38:38Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": null,
+            "title": "Male nurse who posed as doctor to molest patient jailed 7 months",
+            "description": "A male nurse who impersonated a doctor to molest a patient was sentenced to.... at the State Courts on Wednesday (4 July) after pleading guilty to one charge of using criminal force to outrage the woman's modesty.",
+            "url": "https://sg.news.yahoo.com/male-nurse-pretended-doctor-molest-patient-jailed-041840667.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/R6demTe12NyqONpJd9aR0A--~B/aD0xNDE0O3c9MjEyMTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/98a61ca12b7724314cc0dcadd4e96fb3",
+            "publishedAt": "2018-07-04T04:24:34Z"
+        },
+        {
+            "source": {
+                "id": "xinhua-net",
+                "name": "Xinhua Net"
+            },
+            "author": null,
+            "title": "Passenger trains run on trial from Cambodian capital to Thai border after 45-year hiatus",
+            "description": "Cambodia's passenger train services ran on trial Wednesday on the 385-km track between Phnom Penh, capital of Cambodia, and Poipet city on the border with Thailand after a 45-year hiatus, Minister of Public Works and Transport Sun Chanthol said.",
+            "url": "http://www.xinhuanet.com/english/2018-07/04/c_137300626.htm",
+            "urlToImage": null,
+            "publishedAt": "2018-07-04T04:24:12Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Asiaone.com"
+            },
+            "author": null,
+            "title": "World Cup: England beat Colombia on penalties to reach last eight",
+            "description": "MOSCOW - England finally ended their penalties curse when they beat Colombia 4-3 in a shootout after drawing their World Cup last-16 clash 1-1 following extra time after the South Americans equalised in the 93rd minute. England had previously lost all three W…",
+            "url": "http://www.asiaone.com/world/world-cup-england-beat-colombia-penalties-reach-last-eight",
+            "urlToImage": "http://www.asiaone.com/sites/default/files/original_images/Jul2018/worldcupenglandcolombia_reuters.jpg",
+            "publishedAt": "2018-07-04T03:00:23Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Straitstimes.com"
+            },
+            "author": "IRENE THAM",
+            "title": "IMDA probing 3½-hour Singtel broadband outage",
+            "description": "Users of the telco were cut off from Web surfing on Wednesday morning. Even payments provider AXS’ website and app could not be accessed due to the breakdown.. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/tech/singtel-broadband-outage-reported-as-early-as-730am",
+            "urlToImage": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2018/07/04/nz-singtel-040718.jpg?itok=X9xzUqqo",
+            "publishedAt": "2018-07-04T02:16:29Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theedgemarkets.com"
+            },
+            "author": null,
+            "title": "ECRL will actually cost Malaysia RM81b, says Guan Eng",
+            "description": "KUALA LUMPUR: The total cost to build and finance the controversial China-backed East Coast Rail Link (ECRL) project is a whopping RM81 billion, and that has not even included the cost to run it.“The final cost of the ECRL project is actually RM81 billion and…",
+            "url": "http://www.theedgemarkets.com/article/ecrl-will-actually-cost-malaysia-rm81b-says-guan-eng",
+            "urlToImage": "https://assets.theedgemarkets.com/East-Coast-Rail-Link_ECRL_20180704095808_mrl.com_.my_.jpg?null",
+            "publishedAt": "2018-07-04T02:05:34Z"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+<!--
+  Generated template for the NewsDetailPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{selectedItem.title}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-item text-wrap>
+    <img [src]="selectedItem.urlToImage">
+    <div>
+      <p>{{selectedItem.description}}</p>
+    </div>
+    <br>
+    <a target="_blank" href="{{selectedItem.url}}">Click here</a> to know more.
+  </ion-item>
+</ion-content>
