@@ -29,7 +29,7 @@ plugins/android.json
 plugins/ios.json
 www/
 $RECYCLE.BIN/
-.ionic_start.bat
+ionic_start.bat
 
 .DS_Store
 Thumbs.db
